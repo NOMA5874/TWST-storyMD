@@ -1,15 +1,18 @@
 # 40110_1_command
 
+> **标题**：(仮)
+>
+> **副标题**：なりきり花婿１話
+>
+> **稀有度**：SSR
+>
+> **角色**：Lilia Vanrouge
+
 - Category: `card`
 - Source: `card/40110_1/40110_1_command.json`
 
 <a id="group_1"></a>
 ## group_1
-
-### (仮)
-**角色：Lilia Vanrouge**
-*なりきり花婿１話*
-> Rarity: SSR
 
 ### 地点：ディアソムニア寮‐リリアの部屋
 *Diasomnia Dorm - Lilia's Room*

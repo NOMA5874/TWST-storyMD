@@ -13,8 +13,8 @@
 クァ〜〜〜〜〜……アァ。
 
 **【选择】**
-- [眠たそうだね](#group_2) → `group_2`
-- [大きなあくび](#group_2) → `group_2`
+- [眠たそうだね](#2075_1_command__group_2) → `group_2`
+- [大きなあくび](#2075_1_command__group_2) → `group_2`
 
 <a id="group_2"></a>
 ## group_2
@@ -76,8 +76,8 @@
 誰が先に成功するか勝負しようよ。
 
 **【选择】**
-- [のぞむところ！](#group_3) → `group_3`
-- [やめたほうが……](#group_4) → `group_4`
+- [のぞむところ！](#2075_1_command__group_3) → `group_3`
+- [やめたほうが……](#2075_1_command__group_4) → `group_4`
 
 <a id="group_3"></a>
 ## group_3
@@ -86,7 +86,7 @@
 おう！　やってやるんだゾ。
 負けたヤツがツナ缶奢るってことで！
 
-*[→ 下一段：group_5](#group_5)*
+*[→ 下一段：group_5](#2075_1_command__group_5)*
 
 <a id="group_4"></a>
 ## group_4
@@ -95,7 +95,7 @@
 いいや！　オレ様はやってやるんだゾ。
 勝利の暁にツナ缶ぶんどってくるから期待しとけ！
 
-*[→ 下一段：group_5](#group_5)*
+*[→ 下一段：group_5](#2075_1_command__group_5)*
 
 <a id="group_5"></a>
 ## group_5
@@ -127,8 +127,8 @@
 毎日毎日やることが多くて大変なんだゾ。
 
 **【选择】**
-- [充実してるね](#group_6) → `group_6`
-- [楽しいね](#group_6) → `group_6`
+- [充実してるね](#2075_1_command__group_6) → `group_6`
+- [楽しいね](#2075_1_command__group_6) → `group_6`
 
 <a id="group_6"></a>
 ## group_6
